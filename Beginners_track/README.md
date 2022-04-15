@@ -1,5 +1,6 @@
 ---
-#Kodecamp Tasks
+
+# Kodecamp Tasks
 
 ## DESCRIPTIONS FOR EACH TASKS
 
@@ -8,7 +9,7 @@
 
 ### [Kodecamp_task2.py](./Kodecamp_task2.py)
 * Ask the user to enter a list containing numbers between 1 and 12. Then replace all of the entries in the list that are greater than 10 with 10.
----
+
 ### [README.md](./README.md)
 * Contains descriptions for all files
 ---
